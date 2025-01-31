@@ -1,0 +1,12 @@
+1. Crear un botón para dar 'like' a la imagen de tu blog y que se incremente un contador de likes. 
+5. Crear un temporizador que haga una cuenta regresiva desde 10 segundos y muestre un mensaje cuando llegue a cero. 
+8. Mostrar un mensaje de 'Cargando...' durante 3 segundos cuando se recargue la página. 
+10. Añadir un botón para cambiar entre modos claro y oscuro en el diseño del blog. 
+11. Hacer que el título del blog cambie dinámicamente según el nombre que introduzca el usuario en un cuadro de texto. 
+13. Mostrar un mensaje emergente con la hora actual al hacer clic en un botón. 
+14. Validar el formulario para asegurarse de que todos los campos estén llenos antes de enviarlo. 
+16. Implementar un botón que haga que el párrafo de descripción desaparezca y vuelva a aparecer al hacer clic. 
+20. Agregar un botón que reproduzca un sonido o música al hacer clic 
+18. Permitir al usuario establecer un color de fondo personalizado para el blog mediante un selector de color. 
+
+Descomprimir la carpeta para la correcta visualización 
